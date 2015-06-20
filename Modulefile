@@ -1,0 +1,8 @@
+name    'wordpress-installation'
+version '0.1.0'
+source 'www.digitalocean.com'
+author 'gruzewski'
+license 'Apache License, Version 2.0'
+summary 'null'
+description 'Simple Wordpress module'
+project_page 'https://github.com/gruzewski/puppet/wordpress'

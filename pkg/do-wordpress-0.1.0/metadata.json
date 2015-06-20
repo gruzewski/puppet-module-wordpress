@@ -1,0 +1,29 @@
+{
+  "name": "do-wordpress",
+  "version": "0.1.0",
+  "source": "www.digitalocean.com",
+  "author": "gruzewski",
+  "license": "Apache License, Version 2.0",
+  "summary": "null",
+  "description": "Simple Wordpress module",
+  "project_page": "https://github.com/gruzewski",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "7dd2315c5320d5256608276556ee6005",
+    "README": "d4f39f15ea5c352b60e864e91d362cb0",
+    "files/latest.tar.gz": "c40d56cf85975482d5f5fa8c4b97d1d2",
+    "manifests/conf.pp": "4b72de4fd52d12f3753325f9649f51b0",
+    "manifests/db.pp": "2cb0df45d155ff56d1eef9f0d0da3587",
+    "manifests/init.pp": "ed1155b1dd3752eb17d9a410d20deb5d",
+    "manifests/web.pp": "e79a5b6dc1bc7d76b34eb0a46bdd978a",
+    "manifests/wp.pp": "0ff10a42067b62210fea7c9a2aa972fc",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "templates/wp-config.php.erb": "958b56f20295a7a53de72dc3c17c30b3",
+    "tests/init.pp": "dffce184b8afaad4c4dc4c11c3e77c44"
+  }
+}
